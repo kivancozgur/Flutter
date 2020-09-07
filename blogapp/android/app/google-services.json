@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750194346038",
+    "firebase_url": "https://blogapp-78260.firebaseio.com",
+    "project_id": "blogapp-78260",
+    "storage_bucket": "blogapp-78260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750194346038:android:aa263ad28389e90cf93097",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750194346038-uoftvb8ul7ms2rc4r9dapfinfabn3r7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHIBDAlcbfl1UYq0fGj81NYCNKiBmkSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750194346038-uoftvb8ul7ms2rc4r9dapfinfabn3r7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

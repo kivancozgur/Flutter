@@ -1,0 +1,52 @@
+{
+
+  "height": 300,
+
+  "color": "0xFF6D4DD4",
+
+  "imagewidth": 500,
+
+  "imageheight": 200,
+
+  "font": "Pacifico",
+
+  "fontsize": 35,
+
+  "fontcolor": "white",
+
+  "subfont": "RobotoLight",
+
+  "subfontsize": 20,
+
+  "subfontcolor": "white",
+
+  "kartlar": [
+
+    {
+
+      "imageurl": "http://yelpaze.maykod.com/assets/2.jpg",
+
+      "text": "Pub",
+
+      "subtext": "Pub Bilgileri",
+
+      "navigationClass": "Pub"
+
+    },
+
+    {
+
+      "imageurl": "http://yelpaze.maykod.com/assets/1.jpg",
+
+      "text": "Restoran",
+
+      "subtext": "Restoran Bilgileri",
+
+      "navigationClass": "Restoran"
+
+    }
+
+  ]
+
+}
+

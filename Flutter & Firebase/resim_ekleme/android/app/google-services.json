@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751596381505",
+    "firebase_url": "https://resimyukle-c73b1.firebaseio.com",
+    "project_id": "resimyukle-c73b1",
+    "storage_bucket": "resimyukle-c73b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751596381505:android:918593dc9e0a5b95742dc0",
+        "android_client_info": {
+          "package_name": "com.example.resim_ekleme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751596381505-2tfo7hstp75bl8bkeoolra0ng4rginn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKgNiap6mnoGZSValJimwgcTFvaqBuUsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751596381505-2tfo7hstp75bl8bkeoolra0ng4rginn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
